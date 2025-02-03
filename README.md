@@ -1,7 +1,6 @@
 # Blockchain-based-Crowdfunding
 Overview
-The Blockchain-Powered Online Crowdfunding Platform is a decentralized application (DApp) designed to help campaign organizers securely raise funds. By leveraging the Ethereum blockchain, this platform ensures that all transactions are transparent, immutable, and governed by smart contracts. Contributions are managed securely and are only released when specific conditions are met.
-This solution is ideal for entrepreneurs, innovators, and non-profit organizations seeking financial support while maintaining complete transparency and control over the fundraising process.
+The Blockchain-Powered Online Crowdfunding Platform is a decentralized application (DApp) designed to help campaign organizers securely raise funds. By leveraging the Ethereum blockchain, this platform ensures that all transactions are transparent, immutable, and governed by smart contracts. Contributions are managed securely and are only released when specific conditions are met.This solution is ideal for entrepreneurs, innovators, and non-profit organizations seeking financial support while maintaining complete transparency and control over the fundraising process.
 
 Key Features
 Decentralized System: All transactions and funds are managed through Ethereum smart contracts, guaranteeing security and transparency.
